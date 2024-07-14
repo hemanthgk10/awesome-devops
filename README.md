@@ -6,8 +6,11 @@ List of all the awesome tools for devops.
 # Kuberenetes
 ##### Security
 [Kube-linter](https://github.com/stackrox/kube-linter) - KubeLinter analyzes Kubernetes YAML files and Helm charts, and checks them against a variety of best practices, with a focus on production readiness and security.
+
 [Kube-Scape](https://github.com/kubescape/kubescape) - An open-source Kubernetes security platform for your clusters, CI/CD pipelines, and IDE that seperates out the security signal from the scanner noise.
+
 [Popeye](https://popeyecli.io/) - Popeye is a utility that scans live Kubernetes clusters and reports potential issues with deployed resources and configurations.
+
 [k8sgpt](https://k8sgpt.ai/) - K8sGPT is a tool for scanning your kubernetes clusters, diagnosing and triaging issues in simple english. It has SRE experience codified into its analyzers and helps to pull out the most relevant information to enrich it with AI.
 
 
