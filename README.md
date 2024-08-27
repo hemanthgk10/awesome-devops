@@ -54,5 +54,5 @@ List of all the awesome tools for devops.
 ##### On-Call Agent
 [HolmesGpt](https://github.com/robusta-dev/holmesgpt) - The only AI assistant that investigates incidents like a human does - by looking at alerts and fetching missing data until it finds the root cause. Powered by OpenAI, Azure AI, AWS Bedrock, or any tool-calling LLM of your choice, including open source models.
 
-
-
+##### Private LLM
+[IITS](https://iits.ai/) - Private LLM Solution enriched ​with your ​own data
