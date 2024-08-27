@@ -2,6 +2,7 @@
 List of all the awesome tools for devops.
 
 * [Kubernetes](#kubernetes)
+* [AI](#ai)
 
 # Kuberenetes
 ##### Security
@@ -46,7 +47,12 @@ List of all the awesome tools for devops.
 
 [kubeflow](https://www.kubeflow.org/) - The Kubeflow project is dedicated to making deployments of machine learning (ML) workflows on Kubernetes simple, portable and scalable.
 
+# AI
+##### On-Call Agent
+[HolmesGpt](https://github.com/robusta-dev/holmesgpt) - The only AI assistant that investigates incidents like a human does - by looking at alerts and fetching missing data until it finds the root cause. Powered by OpenAI, Azure AI, AWS Bedrock, or any tool-calling LLM of your choice, including open source models.
+
 
 ##### Testing
 [KUTTL](https://kuttl.dev/) - The KUbernetes Test TooL (KUTTL) is a toolkit that makes it easy to test Kubernetes Operators (opens new window), just using YAML.
+
 
